@@ -1,6 +1,11 @@
 {
-  "morning": "",
-  "evening": "",
+  "morning": "99",
+  "evening": "88",
   "morningTime": "07:00 AM",
-  "eveningTime": "07:00 PM"
+  "eveningTime": "07:00 PM",
+  "settings": {
+    "upiId": "kumawatmanojgegwa-2@oksbi",
+    "whatsappNumber": "917851846874",
+    "ticketPrice": "199"
+  }
 }
